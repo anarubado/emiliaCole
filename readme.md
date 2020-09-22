@@ -1,16 +1,18 @@
-# Recreación del maquetado Emilia Cole
+# Recreación del maquetado Emilia Cole 🎵🎶
+
+Maquetado para Desktop
 
 ### Mock-ups
 
-Home
+◾️ Home
 <img src="img/mockups/home.png" alt="emilia's home">
 
-About
+◽️ About
 <img src="img/mockups/about.png" alt="emilia's about">
 
-Music
+◾️ Music
 <img src="img/mockups/music.png" alt="emilia's music">
 
-Contact
+◽️ Contact
 <img src="img/mockups/contact.png" alt="emilia's contact">
 
